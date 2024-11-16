@@ -1,7 +1,3 @@
-# <center>fanyi</center>
-
-[toc]
-
 ## 介绍
 
 学习 Rust 权威指南和一些第三方工具包之后的练手项目,
